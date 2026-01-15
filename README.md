@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Dhakshina
 
 System Engineer @ Tata Consultancy Services 
-- 🔭 Here's my [portfolio](https://notion.so/About-Me-dbe75e748a9b4472840bed804e506e8c?pvs=4)
+- 🔭 Here's my [portfolio](https://portfolio-dusky-eta-7i66e671ri.vercel.app/))
 - 💬 I'm Curious programmer and love to face the errors 😄
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ML/AI
