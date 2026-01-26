@@ -13,4 +13,3 @@ System Engineer @ Tata Consultancy Services
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
-[![Dhakshina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deejay008&bg_color=000000&color=c6242c&line=e60505&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
