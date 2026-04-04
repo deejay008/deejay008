@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Dhakshina
 
 - 🔭 Here's my [portfolio](https://portfolio-dusky-eta-7i66e671ri.vercel.app/)
-- 💬 I'm Curious programmer and love to face the errors 😄
+- 💬 I'm Curious programmer and love to face the errors and fix it.
 - 👯 I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/dhakshina-moorthy-746a1a240)
